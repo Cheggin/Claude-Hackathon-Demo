@@ -41,11 +41,11 @@ Your app will be running at `http://localhost:5173`
 
 ## Technology Stack
 
-- **Frontend**: React 18+ with TypeScript
-- **Database & Backend**: Convex (real-time, serverless)
-- **Styling**: CSS Modules (NO Tailwind - professional custom styles)
+- **Frontend**: React w/ TypeScript
+- **Database & Backend**: Convex - serverless backend with real-time database and automatic API generation
+- **Styling**: CSS
 - **Animation**: Framer Motion
-- **Build Tool**: Vite
+- **Build Tool**: Vite - fast frontend build tool 
 - **Package Manager**: npm or pnpm
 
 ## License
