@@ -1,4 +1,6 @@
-# Claude Hackathon Starter
+<img width="1128" height="191" alt="Linkedin_Claude Builder Club_Banner" src="https://github.com/user-attachments/assets/6069bb9d-aeb1-44a5-92e5-2e38c9510a59" />
+
+# Claude Hackathon Starter 
 
 A production-quality starter template for hackathon projects using React, TypeScript, and Convex. This template follows enterprise-grade standards with professional design principles and no placeholder content.
 
