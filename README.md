@@ -15,7 +15,7 @@ Most hackathon starters are filled with generic designs, placeholder content, an
 1. **Clone and install dependencies**
 
 ```bash
-git clone <https://github.com/Cheggin/Claude-Hackathon-Demo>
+git clone https://github.com/Cheggin/Claude-Hackathon-Demo
 cd frontend
 npm install
 ```
